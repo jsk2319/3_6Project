@@ -69,13 +69,13 @@ public class Months extends Application {
                     alert.setContentText("Happy Spring days!");
                     break;
                 case June:
-                    alert.setContentText("It’s summer time.");
+                    alert.setContentText("Its summer time.");
                     break;
                 case July:
-                    alert.setContentText("It’s summer time.");
+                    alert.setContentText("Its summer time.");
                     break;
                 case August:
-                    alert.setContentText("It’s summer time.");
+                    alert.setContentText("Its summer time.");
                     break;
                 case September:
                     alert.setContentText("Welcome to the foliage season!");
